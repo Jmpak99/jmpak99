@@ -1,4 +1,4 @@
-
+📊
 <div><img src="https://capsule-render.vercel.app/api?type=waving&color=0:ccce99,100:7B6FFF&height=200&section=header&text=Jmpak99&fontSize=90" /></div>
 
 <div align="center">
@@ -8,6 +8,15 @@
 <div align="right">
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseochan99&count_bg=%2394A09D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
+
+<br>
+
+<h3 align="center">📊 Stats 📊</h3>
+<div align="center">
+  <a href="https://github.com/oka1313/convoychat">
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmpak99&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  </a>
 </div>
 
 <br>
@@ -30,6 +39,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"/>
+  <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />&nbsp
 </div>
 
 <br>
@@ -51,6 +61,7 @@
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/miricanvas-03C75A.svg?style=for-the-badge&logo=canvas&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
@@ -74,17 +85,16 @@
     <img
       src="https://img.shields.io/badge/jmpak99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
+  <a href="https://www.instagram.com/j_ming.02/">
+    <img
+      src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
+  </a>
 </div>
 
 <br>
 
 
-<h3 align="center">📫 Stats 📫</h3>
-<div align="center">
-  <a href="https://github.com/oka1313/convoychat">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmpak99&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-  </a>
-</div>
+
 
 
 ## 🌿 Experience
