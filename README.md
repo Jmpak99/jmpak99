@@ -78,10 +78,9 @@
   <a href="https://velog.io/@jmpak99">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="jmpak99@gmail.com">
+  <a href="mailto:jmpak99@gmail.com">
     <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-    
+      src="https://img.shields.io/badge/jmpak99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 
