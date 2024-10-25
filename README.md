@@ -1,4 +1,3 @@
-📊
 <div><img src="https://capsule-render.vercel.app/api?type=waving&color=0:ccce99,100:7B6FFF&height=200&section=header&text=Jmpak99&fontSize=90" /></div>
 
 <div align="center">
